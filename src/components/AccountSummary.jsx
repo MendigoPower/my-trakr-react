@@ -1,17 +1,9 @@
-import React, { useState } from 'react';
-import axios from 'axios';
+import React from 'react'
 
-class App extends Component {
-  constructor(props) {
-    super(props);
-
-    this.state = { amount }
-  }
-}
+export default function AccountSummary() {
   return (
-    <div className='App'>
-      <p>{amount}</p>
+    <div>
       
-    </div> 
+    </div>
   )
 }
